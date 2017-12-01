@@ -1,0 +1,18 @@
+.john_doe {
+    background: url(/assets/img/bgphoto.png) no-repeat center center;
+    background-size: cover;
+    min-height: 500px;
+    color: $white;
+    
+    img {
+        padding: 15px;
+        margin: 10px 0 0 10px;
+        border: 2px solid $white;
+        height: 60px;
+        width: auto;
+    }
+    
+    .social {
+        margin-top: 35px;
+    }
+}

@@ -1,0 +1,15 @@
+.twitter {
+    background-color: $blue;
+    color: $white;
+    min-height: 250px;
+    
+    h2, img {
+        padding: 40px 0;
+    }
+    
+    h3 {
+        font-size: 28px;
+        text-transform: lowercase;
+    }
+
+}

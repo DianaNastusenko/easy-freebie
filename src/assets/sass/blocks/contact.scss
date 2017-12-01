@@ -1,0 +1,28 @@
+.contact {
+    min-height: 815px;
+    background: url(/assets/img/2.jpg) no-repeat center center;
+    background-size: cover;
+    color: $white;
+   
+    h2 {
+        padding: 40px 0;
+    }
+    
+    
+    input, textarea {
+        background-color: transparent;
+        border: 2px solid $white;
+        height: 55px;
+        margin-bottom: 40px;
+    }
+    
+    textarea {
+        height: 220px;
+        overflow: auto;
+    }
+    
+    button {
+        height: 60px;
+        margin-bottom: 20px;
+    }
+}

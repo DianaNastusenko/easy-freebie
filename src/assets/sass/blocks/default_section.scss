@@ -1,0 +1,20 @@
+.default_section {
+    background-color: $mygrey;
+    min-height: 470px;
+    color: $white;
+    
+    h2 {
+        padding: 40px 0;
+    }
+    
+    button {
+        background-color: $mygrey;
+        width: 140px;
+        border: 2px solid $bgcolor; 
+        padding: 15px;
+    }
+    button:hover {
+        cursor: pointer;
+    }
+
+}

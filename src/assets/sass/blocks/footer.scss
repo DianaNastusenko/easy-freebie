@@ -1,0 +1,14 @@
+.footer {
+    background-color: $bgcolor;
+    min-height: 170px;
+    
+    .nav-link {
+    border-right: 1px solid $mygrey; 
+    color: $mygrey;
+    padding-right: 10px;
+    margin-right: 10px;
+    }
+    #nav-link-last {
+        border: 0;
+    }
+}

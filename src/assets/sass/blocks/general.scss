@@ -1,0 +1,37 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: $font-family-base;
+    font-weight: 100;
+}
+
+h1,h2,h3, a, button {
+    text-transform: uppercase;
+    font-family: $font-family-base;
+    font-weight: 300;
+}
+
+h2,  {
+    padding: 40px 0;
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+a, p {
+    font-size: 14px;
+}
+
+span {
+    color: $blue;
+}
+
+.active {
+    border: 2px solid $blue;
+}
+
+a:hover {
+    text-decoration: none;
+}

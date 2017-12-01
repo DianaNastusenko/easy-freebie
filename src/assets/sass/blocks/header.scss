@@ -1,0 +1,13 @@
+.header {
+    height: 800px;
+    background: url(../img/bg.jpg) no-repeat center center;
+    background-size: cover;
+    color: $white;
+    text-align: center;
+
+    h2 {
+        background-color: $mygrey; 
+        display: inline-block; 
+        padding: 0;
+    }
+}
